@@ -1,0 +1,10 @@
+## Prerequisites
+Python 3.8+
+pip install pandas tqdm
+### Libraries Used
+  re — Regular expressions for pattern matching
+  pandas — DataFrame construction and manipulation
+  gzip — Reading compressed .log.gz files
+  logging — For pipeline activity and error tracking
+
+
